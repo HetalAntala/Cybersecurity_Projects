@@ -63,15 +63,10 @@ Generate secure random passwords instantly using:
 # 📂 Project Structure
 
 password-security-toolkit/
-
 │
-
 ├── app.py
-
 ├── requirements.txt
-
 ├── README.md
-
 └── screenshots/
 
 # Steps
