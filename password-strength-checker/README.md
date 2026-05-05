@@ -74,10 +74,9 @@ password-security-toolkit/
 
 └── screenshots/
 
----
-## 1️⃣ Clone Repository
+# Steps
 
-```bash
+## 1️⃣ Clone Repository
 git clone https://github.com/HetalAntala/Cybersecurity_Projects.git
 
 ## 2️⃣ Move Into Project Folder
